@@ -4,4 +4,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ### I made this just to learn the new features that's coming in the next13 beta
 
-Since I didn't make a index page you'll be redirected to (signin)[https://next13-app-folder-experimental.vercel.app/signin], but if you ever logged the redirect middleware won't trigger so you probably will get a 404, just go to (/home)[https://next13-app-folder-experimental.vercel.app/home] 
+Since I didn't make a index page you'll be redirected to [signin](https://next13-app-folder-experimental.vercel.app/signin), but if you ever logged the redirect middleware won't trigger so you probably will get a 404, just go to [/home](https://next13-app-folder-experimental.vercel.app/home)
